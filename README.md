@@ -1,8 +1,26 @@
-# React + Vite
+# JobSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**JobSphere** is a dynamic Job Portal web application built with React, designed to streamline job search and recruitment. It allows job seekers to find and apply for jobs, while recruiters and employers can post job listings. The application offers a user-friendly interface for both job seekers and recruiters.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- **User Authentication**: Secure login and registration for job seekers and employers.
+- **Job Search**: Filter job listings by keywords, location, and category.
+- **Job Applications**: Apply directly to listings and track application status.
+- **Recruiter Access**: Recruiters can manage job postings and review applicants.
+- **Employer Access**: Employers can find and apply for job opportunities.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Technologies Used
+
+- **Frontend**: React, JSX, Tailwind CSS, JavaScript
+- **Database**: Supabase
+- **Authentication**: Clerk
+- **UI Tools**: ShadCN UI for frontend components
+
+
+
+## License
+
+This project is licensed under the MIT License.
