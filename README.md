@@ -19,6 +19,8 @@
 - **Authentication**: Clerk
 - **UI Tools**: ShadCN UI for frontend components
 
+## WEB 
+![JobSphere web](public/web1.png)
 
 
 ## License
